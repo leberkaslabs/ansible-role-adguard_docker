@@ -1,0 +1,5 @@
+---
+# https://github.com/apps/settings
+repository:
+  description: Setup AdGuard Home with Docker Compose.
+  topics: ansible, ansible-galaxy, molecule, role
